@@ -1,2 +1,2 @@
 # hello-word
-Test for creating project in Github
+Test for creating one project in Github
